@@ -37,9 +37,9 @@ I design end-to-end automation systems with security-first thinking, combining a
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/your-username
-- Telegram: https://t.me/your-handle
-- Email: your@email.com
+- GitHub: https://github.com/n07eo
+- Telegram: https://t.me/n07eo
+- Email: n07eeo@gmail.com
 
 ---
 
